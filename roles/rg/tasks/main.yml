@@ -2,6 +2,6 @@
 
 - name: Create resource group
   azure_rm_resourcegroup:
-    name: '{{ azure_resource_group }}'
-    location: '{{ azure_region }}'
-    tags: {{ azure_tag_dictionary }}
+    name: '{{ Azure_Resource_Group }}'
+    location: '{{ Azure_Region }}'
+    tags: {{ Azure_Tag_Dictionary }}

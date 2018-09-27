@@ -7,9 +7,9 @@ This Repo Creates Azure Resource Groups. Azure Credentials is managed by Tower o
 
 ```javascript
 {
-azure_resource_group: ''
-azure_region: ''
-azure_tag_dictionary: ''
+Azure_Resource_Group: ''
+Azure_Region: ''
+Azure_Tag_Dictionary: ''
 }
 ```
 <>
