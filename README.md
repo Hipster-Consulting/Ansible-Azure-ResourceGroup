@@ -12,4 +12,3 @@ Azure_Region: ''
 Azure_Tag_Dictionary: ''
 }
 ```
-<>
