@@ -3,7 +3,6 @@
 
 Azure_Resource_Group: 'testrg'
 Azure_Region: 'eastus'
-Azure_Tag_Dictionary: {
-        "key1": "value1",
-        "key2": "value2"
-    }
+Azure_Tag_Dictionary: 
+    key1: "value1"
+    key2: "value2"
